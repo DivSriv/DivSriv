@@ -40,4 +40,4 @@
 
 <p><img width="500 px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=divsriv&" alt="divsriv" /></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p> <img width="130 px" src="https://komarev.com/ghpvc/?username=divsriv&label=Profile%20views&color=0e75b6&style=flat" alt="divsriv" /> </p>
+<p> <img width="130 px" src="https://komarev.com/ghpvc/?username=divsriv&label=Profile%20views&color=red&style=flat" alt="divsriv" /> </p>
