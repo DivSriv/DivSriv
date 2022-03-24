@@ -32,8 +32,8 @@
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
 
 
-<p><img width="500 px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divsriv&show_icons=true&locale=en&layout=compact" alt="divsriv" /></p>
+<p><img width="500 px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divsriv&theme=dark&show_icons=true&locale=en&layout=compact&langs_count=5" alt="divsriv" /></p>
 
-<p>&nbsp;<img width="500 px" align="right" src="https://github-readme-stats.vercel.app/api?username=divsriv&show_icons=true&locale=en" alt="divsriv" /></p>
+<p>&nbsp;<img width="500 px" align="right" src="https://github-readme-stats.vercel.app/api?username=divsriv&theme=dark&show_icons=true&locale=en" alt="divsriv" /></p>
 
-<p><img width="500 px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=divsriv&" alt="divsriv" /></p>
+<p><img width="500 px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=divsriv&theme=dark&" alt="divsriv" /></p>
