@@ -30,10 +30,29 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
+</p>
+
+---
+
+<h2 align='center'>Performance</h2>
+
+<p align='center'><a href="https://github.com/divsriv">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divsriv&theme=dark&show_icons=true&locale=en" alt="divsriv" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divsriv&theme=dark&show_icons=true&locale=en" alt="divsriv" />
+</a></p>
+
+---
+
+<h2 align='center'>Languages I've worked with</h2>
+
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divsriv&theme=dark&show_icons=true&locale=en&layout=compact&langs_count=5" alt="divsriv" />
+</p>
+
+---
+
+<h2 align='center'>Contributions</h2><h6>*Till March 25</h6>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![DivSriv1@2022](https://user-images.githubusercontent.com/72649014/160157850-794333f7-164c-4341-b478-b003023a28d2.gif)
 
 
-<p><img width="500 px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divsriv&theme=dark&show_icons=true&locale=en&layout=compact&langs_count=5" alt="divsriv" /></p>
-
-<p>&nbsp;<img width="500 px" align="right" src="https://github-readme-stats.vercel.app/api?username=divsriv&theme=dark&show_icons=true&locale=en" alt="divsriv" /></p>
-
-<p><img width="500 px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=divsriv&theme=dark&" alt="divsriv" /></p>
