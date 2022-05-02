@@ -51,8 +51,12 @@
 
 ---
 
-<h2 align='center'>Contributions</h2><h6>*Till March 25</h6>
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=DivSriv&theme=react-dark&hide_border=true&custom_title=Divya%20Srivastava's%20Last%2030%20Days%20Contributions%20Graph&bg_color=0d1117&area_color=1f6fea&line=3399ff&point=ffffff&color=fefefe)
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![DivSriv1@2022](https://user-images.githubusercontent.com/72649014/160157850-794333f7-164c-4341-b478-b003023a28d2.gif)
+---
 
+<h2 align='center'>Contributions SkyLine for 2022</h2>
+
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![DivSriv-May1@2022-4](https://user-images.githubusercontent.com/72649014/166206949-07d2827f-373f-4e1c-877b-17923a99d98d.gif)
 
