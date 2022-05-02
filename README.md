@@ -9,6 +9,7 @@
 <a href="https://linkedin.com/in/divsriv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divsriv" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/DivSriv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="DivSriv" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/DivSriv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="DivSriv" height="30" width="40" /></a>
+<a href="https://divsriv.github.io/PortfoliousingHTMLCSS/index.html" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/72649014/166218874-c255bf1f-338e-46f6-bbfe-ff2b4428c3fd.svg" alt="divsriv" height="40" width="50" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
