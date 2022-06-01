@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Divya Srivastava</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height= "40px" width="30px">, I'm Divya Srivastava</h1>
 <h3 align="center">A passionate Fullstack developer and DevOps enthusiast</h3>
 
 
-- 🌱 I’m currently learning **MERN stack, Bash scripting, Docker, Kubernetes**
+- 🌱 I’m currently learning about **Full Stack Development and Cloud technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
