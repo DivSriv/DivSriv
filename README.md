@@ -37,29 +37,33 @@
 
 <!--   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  -->
 
+<!-- ![java-horizontal](https://user-images.githubusercontent.com/72649014/190919345-5214e069-6029-4052-ba7e-1376a2d3cf4a.svg) -->
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">   
 <!-- For Table format later -->
 <!--   <table class='table' align="center"><tbody><tr><td>       </td></tr></tbody></table>   -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange" alt="html5"/> </a> 
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/72649014/190919345-5214e069-6029-4052-ba7e-1376a2d3cf4a.svg" alt="JAVA" width="100" height="34"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/72649014/182894377-55d025df-097b-42c5-b6bb-0b00c74a296a.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react%20-%2343853D.svg?&style=for-the-badge&logo=react&logoColor=blue&color=lightgray" alt="react"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange" alt="html5"/> </a>   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=blue&color=#32a852" alt="python"/> </a>  
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react%20-%2343853D.svg?&style=for-the-badge&logo=react&logoColor=blue&color=lightgray" alt="react"/> </a>   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bash%20-%2343853D.svg?&style=for-the-badge&logo=gnubash&logoColor=white&color=gray" alt="bash"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=blue&color=#32a852" alt="python"/> </a>  
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker%20-%2343853D.svg?&style=for-the-badge&logo=docker&logoColor=white&color=blue" alt="docker"/> </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bash%20-%2343853D.svg?&style=for-the-badge&logo=gnubash&logoColor=white&color=gray" alt="bash"/> </a>   
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<!--   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>    -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker%20-%2343853D.svg?&style=for-the-badge&logo=docker&logoColor=white&color=blue" alt="docker"/> </a> 
+  <!--   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>    -->
 <!--   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  -->
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/next.js%20-%2343853D.svg?&style=for-the-badge&logo=next.js&logoColor=white&color=gray" alt="nextjs"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bootstrap%20-%2343853D.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=ff69b4" alt="bootstrap" </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/next.js%20-%2343853D.svg?&style=for-the-badge&logo=next.js&logoColor=white&color=gray" alt="nextjs"/> </a> 
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
-<!--   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>  -->
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bootstrap%20-%2343853D.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=ff69b4" alt="bootstrap" </a> 
+  <!--   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>  -->
 </p>
 
 <!-- ![nodedotjs](https://user-images.githubusercontent.com/72649014/182894377-55d025df-097b-42c5-b6bb-0b00c74a296a.svg) -->
