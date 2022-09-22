@@ -85,7 +85,8 @@
 <h2 align='center'>Languages I've worked with</h2>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divsriv&theme=dark&show_icons=true&locale=en&layout=compact&langs_count=5" alt="divsriv" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=divsriv&theme=dark&show_icons=true&locale=en&layout=compact&langs_count=5" alt="divsriv" />
+<!--   <img height="200px" width="510px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivSriv&theme=github_dark" alt="divsriv" /> -->
 </p>
 
 ---
