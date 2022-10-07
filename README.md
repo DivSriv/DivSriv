@@ -69,6 +69,13 @@
 <!-- ![nodedotjs](https://user-images.githubusercontent.com/72649014/182894377-55d025df-097b-42c5-b6bb-0b00c74a296a.svg) -->
 
 
+---
+
+<h2 align='center'>GitHub Summary</h2>
+
+<p align='center'><a href="https://github.com/divsriv">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivSriv&theme=github_dark" alt="divsriv" />
+</a></p>
 
 
 ---
