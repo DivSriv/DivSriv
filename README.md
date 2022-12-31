@@ -98,9 +98,9 @@
 
 ---
 
-<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=DivSriv&theme=react-dark&hide_border=true&custom_title=Divya%20Srivastava's%20Last%2030%20Days%20Contributions%20Graph&bg_color=0d1117&area_color=1f6fea&line=3399ff&point=ffffff&color=fefefe)
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=DivSriv&theme=react-dark&hide_border=true&custom_title=Divya%20Srivastava's%20Last%2030%20Days%20Contributions%20Graph&bg_color=0d1117&area_color=1f6fea&line=3399ff&point=ffffff&color=fefefe) -->
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DivSriv&theme=github-dark)
---- -->
+---
 
 <h2 align='center'>Contributions SkyLine for 2022</h2>
 
