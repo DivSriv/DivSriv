@@ -84,19 +84,18 @@
 
 <p align='center'><a href="https://github.com/divsriv">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divsriv&theme=dark&" alt="divsriv" alt="divsriv" />
-<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divsriv&theme=dark&show_icons=true&locale=en" alt="divsriv" /> -->
+  <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=divsriv&theme=dark&show_icons=true&locale=en" alt="divsriv" />
 </a></p>
 
 ---
 
-<!-- <h2 align='center'>Languages I've worked with</h2>
+<h2 align='center'>Languages I've worked with</h2>
 
 <p align='center'>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=divsriv&theme=dark&show_icons=true&locale=en&layout=compact&langs_count=5" alt="divsriv" />
-<!--   <img height="200px" width="510px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivSriv&theme=github_dark" alt="divsriv" /> 
 </p>
 
---- -->
+---
 
 <!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=DivSriv&theme=react-dark&hide_border=true&custom_title=Divya%20Srivastava's%20Last%2030%20Days%20Contributions%20Graph&bg_color=0d1117&area_color=1f6fea&line=3399ff&point=ffffff&color=fefefe) -->
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DivSriv&theme=github-dark)
