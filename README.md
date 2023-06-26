@@ -45,8 +45,10 @@
 <p align="center">   
 <!-- For Table format later -->
 <!--   <table class='table' align="center"><tbody><tr><td>       </td></tr></tbody></table>   -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/72649014/190919345-5214e069-6029-4052-ba7e-1376a2d3cf4a.svg" alt="JAVA" width="100" height="34"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/springboot%20-%2343853D.svg?&style=for-the-badge&logo=springboot&logoColor=green&color=gray" alt="Spring Boot"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql%20-%2343853D.svg?&style=for-the-badge&logo=mysql&logoColor=blue&color=white" alt="mysql"/> </a>  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/72649014/182894377-55d025df-097b-42c5-b6bb-0b00c74a296a.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange" alt="html5"/> </a>   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -61,8 +63,6 @@
 <!--   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/next.js%20-%2343853D.svg?&style=for-the-badge&logo=next.js&logoColor=white&color=gray" alt="nextjs"/> </a> 
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bootstrap%20-%2343853D.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=ff69b4" alt="bootstrap" </a> 
   <!--   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>  -->
 </p>
 
@@ -98,8 +98,9 @@
 ---
 
 <!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=DivSriv&theme=react-dark&hide_border=true&custom_title=Divya%20Srivastava's%20Last%2030%20Days%20Contributions%20Graph&bg_color=0d1117&area_color=1f6fea&line=3399ff&point=ffffff&color=fefefe) -->
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DivSriv&theme=github-dark)
----
+<!--![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DivSriv&theme=github-dark)
+-->
+
 
 <h2 align='center'>Contributions SkyLine for 2022</h2>
 
