@@ -84,7 +84,7 @@
 
 <p align='center'><a href="https://github.com/divsriv">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divsriv&theme=dark&" alt="divsriv" alt="divsriv" />
-  <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=divsriv&theme=dark&show_icons=true&locale=en" alt="divsriv" />
+  <!--<img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=divsriv&theme=dark&show_icons=true&locale=en" alt="divsriv" /> -->
 </a></p>
 
 ---
